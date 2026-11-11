@@ -1,15 +1,15 @@
 {
-  "version_code": 20009,
-  "version_name": "0.2.0-test.9",
+  "version_code": 20015,
+  "version_name": "0.2.0-test.15",
   "package": "org.moonlitshop.shop.debug",
   "channel": "debug",
   "update_provider": "github",
   "save_schema": 1,
-  "sha256": "4a814c1e1571410032545242fdbaaad8aa5e39db1e66fa29569205e44a6cbeb4",
+  "sha256": "61c07f135c53cbac328606552c5e0f038dd10c7cc564e5b07f57a0be016ffa77",
   "size": 32005303,
   "signer_sha256": "be8a89030eb4dd71c125b162ff5a01f10ac7cd2da601875955ba5e1f6e85260a",
   "minimum_save_schema": 1,
   "update_protocol": 1,
-  "apk_url": "https://github.com/totemismsuhak-cmd/moonlit-shop-updates/releases/download/android-v20009/moonlit-shop-debug.apk",
-  "notes": "모바일 화면을 세로 레이아웃으로 조정하고 글꼴·터치 버튼·손님 대화 영역을 개선했습니다.\n설정에서 버전 확인, 업데이트 다운로드와 무결성 검사, Android 설치 승인 화면 열기를 제공합니다.\n기존 게임 저장 형식과 거래·손님·날짜 진행 로직은 유지합니다."
+  "apk_url": "https://github.com/totemismsuhak-cmd/moonlit-shop-updates/releases/download/android-v20015/moonlit-shop-debug.apk",
+  "notes": "경영 기능판을 앱 안에서 받기 위한 업데이트 호환 패치입니다.\n이 패치는 기존 게임과 저장 형식 v1을 유지합니다. 영업 시간·직원·시설·발주·용사 원정은 다음 기능판에 포함됩니다.\n다음 기능판이 공개되면 설정의 업데이트 확인을 다시 눌러 주세요. 기능판은 v1 원본을 백업한 뒤 저장을 v2로 변환합니다."
 }
