@@ -1,0 +1,15 @@
+{
+  "version_code": 30018,
+  "version_name": "0.3.0-test.18",
+  "package": "org.moonlitshop.shop.debug",
+  "channel": "debug",
+  "update_provider": "github",
+  "save_schema": 2,
+  "sha256": "5ac1eff9344ae0c785eecb01dc00c23228a4b53c3111688cd21c16c1148fbced",
+  "size": 32050776,
+  "signer_sha256": "be8a89030eb4dd71c125b162ff5a01f10ac7cd2da601875955ba5e1f6e85260a",
+  "minimum_save_schema": 1,
+  "update_protocol": 1,
+  "apk_url": "https://github.com/totemismsuhak-cmd/moonlit-shop-updates/releases/download/android-v30018/moonlit-shop-debug.apk",
+  "notes": "09:00~21:00 영업 시간, 자동 방문·대기열·평판, 재고 발주와 배송을 추가했습니다.\n직원 급여·시설 강화·용사 원정·제작·일일 목표를 실제 영업 수치에 연결했습니다.\n기존 상품·주요 손님·저장 경로를 유지하고, v1 저장 원본을 백업한 뒤 v2로 변환합니다.\n기존 v1 앱에서는 업데이트 호환 패치를 먼저 설치한 뒤 이 기능판을 받으세요. 변환 후 구버전 복귀는 지원하지 않습니다.\n실기기 업데이트·데이터 유지 검증 전에는 공개 업데이트 채널에 게시하지 않습니다."
+}
